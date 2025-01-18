@@ -1,0 +1,3 @@
+write a function to update profile
+take image url/path from user and users name, mob, address,bio
+and display the profile in center of user screen in card form
